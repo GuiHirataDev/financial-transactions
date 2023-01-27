@@ -84,11 +84,11 @@
 
     Ainda não foi desenvolvido uma maneira de manipular os dados .txt
 
-    ## Próximas features
-        - Desenvolvimento completo do front-end
-        - Integração do front-end com o back-end
+## Próximas features
+    - Desenvolvimento completo do front-end
+    - Integração do front-end com o back-end
   
-    # Contato
+# Contato
     Guilherme K Hirata - <a href="https://www.linkedin.com/in/guilhermekhirata/" target="_blank">Linkedin</a> <br>
     Email - guilhermekhirata@hotmail.com
    
